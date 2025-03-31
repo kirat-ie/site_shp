@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document xmlns="http://www.opengis.net/kml/2.2">
+    <Folder>
+      <name>Parcels</name>
+      <Placemark>
+        <name>site_Site_Pollock_Road_Pit</name>
+        <Style>
+          <LineStyle>
+            <color>ff800080</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>80FFFFFF</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#a21a9bcc83af43bd9caa7aabbae22ad6">
+            <SimpleData name="Parcel ID">9.1-3-5.1, 9.3-1-56.1</SimpleData>
+            <SimpleData name="Unique ID">4d01431b-8ee9-4c10-bd28-28324db64f3e, 7d48be38-ef53-4ad0-841b-f4f1595d4380</SimpleData>
+            <SimpleData name="Municipality">Colonie</SimpleData>
+            <SimpleData name="Address">180 Island View Rd, 80 Pollock Rd</SimpleData>
+            <SimpleData name="City">Colonie</SimpleData>
+            <SimpleData name="Zipcode">12047, 12047</SimpleData>
+            <SimpleData name="County">Albany</SimpleData>
+            <SimpleData name="State">NY</SimpleData>
+            <SimpleData name="Owner">Familly, Llc, Wunderlich, Wunderlich Family, Llc</SimpleData>
+            <SimpleData name="Mailing Address">6 NORTHVIEW DR, , LATHAM, NY, 12110</SimpleData>
+            <SimpleData name="Mail Line">6 Northview Dr </SimpleData>
+            <SimpleData name="Mail City">Latham</SimpleData>
+            <SimpleData name="Mail State">NY</SimpleData>
+            <SimpleData name="Mail Zip">12110</SimpleData>
+            <SimpleData name="Land Value">120500.0, 325000.0</SimpleData>
+            <SimpleData name="Total Parcel Value">120500.0, 325000.0</SimpleData>
+            <SimpleData name="Deeded Acreage">80.3222427368164, 74.26720428466797</SimpleData>
+            <SimpleData name="Paces Calculated Acreage">80.60327608492075, 74.53056533172379</SimpleData>
+            <SimpleData name="Zoning Code">R, R</SimpleData>
+            <SimpleData name="Zoning Description">Residential, Residential</SimpleData>
+            <SimpleData name="Type">Site</SimpleData>
+            <SimpleData name="Latitude">42.7779495</SimpleData>
+            <SimpleData name="Longitude">-73.76547350000001</SimpleData>
+            <SimpleData name="Alternate Parcel ID 1">00900100030050010000, 00900300010560010000</SimpleData>
+            <SimpleData name="Alternate Parcel ID 2">0126899.1-3-5.1, 0126899.3-1-56.1</SimpleData>
+            <SimpleData name="Alternate Parcel ID 3">0126006392, 0126006853</SimpleData>
+            <SimpleData name="Parcel URL">https://app.paces.ai/parcel?sourceId=4d01431b-8ee9-4c10-bd28-28324db64f3e&amp;fips=36001, https://app.paces.ai/parcel?sourceId=7d48be38-ef53-4ad0-841b-f4f1595d4380&amp;fips=36001</SimpleData>
+            <SimpleData name="Site ID">16795013</SimpleData>
+            <SimpleData name="Site URL">https://app.paces.ai/site?siteId=16795013</SimpleData>
+            <SimpleData name="Site Notes">Appears to have sufficient HC, and 31 buildable acres if you combine parcels</SimpleData>
+            <SimpleData name="Site Rating">4</SimpleData>
+            <SimpleData name="Owner Name (Reportall)">Wunderlich Family LLC, Familly LLC Wunderlich</SimpleData>
+            <SimpleData name="Mail Address 1 (Reportall)">6 Northview Dr, 6 Northview Dr</SimpleData>
+            <SimpleData name="Mail Address 3 (Reportall)">Latham NY 12110, Latham NY 12110</SimpleData>
+            <SimpleData name="Phone Number">N/A, Name: Leslie Dota; Phone number: 5182252300</SimpleData>
+            <SimpleData name="Email">N/A, Name: Leslie Dota; Email address: sweetstella0214@gmail.com</SimpleData>
+            <SimpleData name="Energy Community">No energy community</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-73.768777,42.7720285 -73.76878,42.7723255 -73.768783,42.772684 -73.768787,42.773115 -73.7689845,42.773101 -73.769569,42.77306 -73.769944,42.7730335 -73.7703355,42.773006 -73.7707225,42.772979 -73.771124,42.772951 -73.771582,42.772919 -73.7720045,42.772889 -73.772764,42.772836 -73.772788,42.774835 -73.769965,42.775086 -73.7696895,42.7751135 -73.770194,42.777311 -73.768082,42.7766305 -73.7683405,42.777282 -73.768857,42.7785875 -73.768936,42.779611 -73.767986,42.7797625 -73.7671385,42.7802375 -73.767346,42.7825645 -73.766425,42.78257 -73.766692,42.778315 -73.7667125,42.7780055 -73.7667495,42.777446 -73.7670485,42.7729305 -73.7675245,42.7726805 -73.7682415,42.772157 -73.768777,42.7720285</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-73.761242,42.7759335 -73.761247,42.775908 -73.761328,42.7754205 -73.7626495,42.7755765 -73.7612595,42.77593 -73.761242,42.7759335</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-73.7609665,42.7773525 -73.7611675,42.7763175 -73.7614225,42.7763005 -73.76175,42.7761 -73.762877,42.7756685 -73.763284,42.7755705 -73.7639635,42.775465 -73.7652615,42.7747925 -73.766391,42.77451 -73.7662015,42.777424 -73.766164,42.777998 -73.7661625,42.7780225 -73.7658785,42.7780325 -73.7655895,42.7830005 -73.765086,42.782981 -73.7626715,42.7840785 -73.7620565,42.783599 -73.761235,42.782823 -73.760505,42.782713 -73.7602605,42.7820825 -73.7611365,42.7810105 -73.759706,42.7811935 -73.7606375,42.7783275 -73.760777,42.777924 -73.7608795,42.777616 -73.7609665,42.7773525</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Layers</name>
+    </Folder>
+  </Document>
+</kml>

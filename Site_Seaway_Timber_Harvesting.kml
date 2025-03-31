@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document xmlns="http://www.opengis.net/kml/2.2">
+    <Folder>
+      <name>Parcels</name>
+      <Placemark>
+        <name>site_Site_Seaway_Timber_Harvesting</name>
+        <Style>
+          <LineStyle>
+            <color>ff800080</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>80FFFFFF</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#a03f38367b544fa590ca01e08a1b64bb">
+            <SimpleData name="Parcel ID">70.002-2-9.111</SimpleData>
+            <SimpleData name="Unique ID">9764ba0d-eb1c-461f-b722-48fa30d632fc</SimpleData>
+            <SimpleData name="Municipality">Oswegatchie</SimpleData>
+            <SimpleData name="Address">593 Lovejoy Rd</SimpleData>
+            <SimpleData name="City">Oswegatchie</SimpleData>
+            <SimpleData name="Zipcode">13669</SimpleData>
+            <SimpleData name="County">St. Lawrence</SimpleData>
+            <SimpleData name="State">NY</SimpleData>
+            <SimpleData name="Owner">Seaway Timber Harvesting</SimpleData>
+            <SimpleData name="Mailing Address">15121 STATE HIGHWAY 37, , MASSENA, NY, 13662</SimpleData>
+            <SimpleData name="Mail Line">15121 State Highway 37 </SimpleData>
+            <SimpleData name="Mail City">Massena</SimpleData>
+            <SimpleData name="Mail State">NY</SimpleData>
+            <SimpleData name="Mail Zip">13662</SimpleData>
+            <SimpleData name="Land Value">39600.0</SimpleData>
+            <SimpleData name="Total Parcel Value">39600.0</SimpleData>
+            <SimpleData name="Deeded Acreage">97.88566589355469</SimpleData>
+            <SimpleData name="Paces Calculated Acreage">97.88408955012343</SimpleData>
+            <SimpleData name="Zoning Code">No Zoning Map Found</SimpleData>
+            <SimpleData name="Zoning Description">Done - No Zoning Confirmed</SimpleData>
+            <SimpleData name="Type">Site</SimpleData>
+            <SimpleData name="Latitude">44.643462</SimpleData>
+            <SimpleData name="Longitude">-75.520354</SimpleData>
+            <SimpleData name="Alternate Parcel ID 2">40648970.002-2-9.111</SimpleData>
+            <SimpleData name="Alternate Parcel ID 3">40640088521</SimpleData>
+            <SimpleData name="Parcel URL">https://app.paces.ai/parcel?sourceId=9764ba0d-eb1c-461f-b722-48fa30d632fc&amp;fips=36089</SimpleData>
+            <SimpleData name="Site ID">16794974</SimpleData>
+            <SimpleData name="Site URL">https://app.paces.ai/site?siteId=16794974</SimpleData>
+            <SimpleData name="Site Notes">Suff build area + HC capacity</SimpleData>
+            <SimpleData name="Site Rating">4</SimpleData>
+            <SimpleData name="Energy Community">No energy community</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-75.5237205,44.64479 -75.5252985,44.6436345 -75.5201315,44.6396525 -75.5201415,44.6396455 -75.519693,44.639273 -75.5148095,44.6426475 -75.5197745,44.6465475 -75.520994,44.6474775 -75.5227035,44.646277 -75.5235425,44.646927 -75.524873,44.64599 -75.525079,44.6458455 -75.5237205,44.64479</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Layers</name>
+    </Folder>
+  </Document>
+</kml>

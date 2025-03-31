@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document xmlns="http://www.opengis.net/kml/2.2">
+    <Folder>
+      <name>Parcels</name>
+      <Placemark>
+        <name>site_Site Ferguson Excavation</name>
+        <Style>
+          <LineStyle>
+            <color>ff800080</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>80FFFFFF</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ba122b3920ac47759ec98098f959c4cd">
+            <SimpleData name="Parcel ID">118.2-1-12, 119.1-1-2, 118.2-1-8.1</SimpleData>
+            <SimpleData name="Unique ID">d12ff4ac-bc97-4264-bf8b-a24cc300a017, e31bc83f-b4f8-4cca-bf6c-6fb7ca41ae87, f16cb298-f50f-47f6-8d9e-2183904de7c8</SimpleData>
+            <SimpleData name="Municipality">Frankfort</SimpleData>
+            <SimpleData name="Address">263 Furnace Rd, , 115 Furnace Rd</SimpleData>
+            <SimpleData name="City">Frankfort</SimpleData>
+            <SimpleData name="Zipcode">13340-4025, 13340, 13340-4023</SimpleData>
+            <SimpleData name="County">Herkimer</SimpleData>
+            <SimpleData name="State">NY</SimpleData>
+            <SimpleData name="Owner">Balio Cosmo, Ferguson, James D V</SimpleData>
+            <SimpleData name="Owner 2">Kimberly M Ferguson</SimpleData>
+            <SimpleData name="Mailing Address">115 FURNACE HILL RD, , FRANKFORT, NY, 13340, 263 FURNACE HILL RD, , FRANKFORT, NY, 13340</SimpleData>
+            <SimpleData name="Mail Line">115 Furnace Hill Rd , 263 Furnace Hill Rd </SimpleData>
+            <SimpleData name="Mail City">Frankfort</SimpleData>
+            <SimpleData name="Mail State">NY</SimpleData>
+            <SimpleData name="Mail Zip">13340</SimpleData>
+            <SimpleData name="Land Value">61000.0, 24300.0, 62200.0</SimpleData>
+            <SimpleData name="Improvement Value">26500.0, 0.0, 112500.0</SimpleData>
+            <SimpleData name="Total Parcel Value">171569.0, 47647.0, 342549.0</SimpleData>
+            <SimpleData name="Deeded Acreage">167.48959350585938, 78.60533905029297, 76.62554168701172</SimpleData>
+            <SimpleData name="Paces Calculated Acreage">168.52089225290806, 79.08963355689926, 77.09627876119879</SimpleData>
+            <SimpleData name="Zoning Code">RA, RA, RA</SimpleData>
+            <SimpleData name="Zoning Description">Agricultural, Agricultural, Agricultural</SimpleData>
+            <SimpleData name="Type">Site</SimpleData>
+            <SimpleData name="Latitude">43.023856333333335</SimpleData>
+            <SimpleData name="Longitude">-75.12836333333333</SimpleData>
+            <SimpleData name="Alternate Parcel ID 1">212689118.2-1-12, 212689119.1-1-2, 212689118.2-1-8.1</SimpleData>
+            <SimpleData name="Alternate Parcel ID 2">2126003181, 2126003285, 2126003176</SimpleData>
+            <SimpleData name="Parcel URL">https://app.paces.ai/parcel?sourceId=d12ff4ac-bc97-4264-bf8b-a24cc300a017&amp;fips=36043, https://app.paces.ai/parcel?sourceId=e31bc83f-b4f8-4cca-bf6c-6fb7ca41ae87&amp;fips=36043, https://app.paces.ai/parcel?sourceId=f16cb298-f50f-47f6-8d9e-2183904de7c8&amp;fips=36043</SimpleData>
+            <SimpleData name="Site ID">16794990</SimpleData>
+            <SimpleData name="Site URL">https://app.paces.ai/site?siteId=16794990</SimpleData>
+            <SimpleData name="Site Notes">Two owners (mine name is Ferguson Excavation site), suff build area + HC</SimpleData>
+            <SimpleData name="Site Rating">4</SimpleData>
+            <SimpleData name="Energy Community">No energy community</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-75.1179755,43.021377 -75.118459,43.0207955 -75.1189955,43.0210105 -75.119149,43.020611 -75.1193275,43.019779 -75.119541,43.0195485 -75.1199205,43.0192805 -75.1214935,43.0188935 -75.1223915,43.0187875 -75.1231845,43.018722 -75.1238595,43.0186865 -75.124394,43.018686 -75.1252005,43.0187055 -75.125748,43.018714 -75.1258615,43.0187335 -75.1262555,43.018624 -75.126507,43.018648 -75.1267925,43.0187375 -75.1270145,43.0188265 -75.1272295,43.018889 -75.127409,43.018876 -75.127554,43.0189 -75.1280395,43.0189785 -75.128522,43.019064 -75.1275505,43.020261 -75.13007,43.0212445 -75.1306135,43.021457 -75.132911,43.02016 -75.1335715,43.0208075 -75.134076,43.021313 -75.1344495,43.0217335 -75.134973,43.0222935 -75.135524,43.0229095 -75.1362405,43.023724 -75.136746,43.02429 -75.137057,43.0246705 -75.1377185,43.0254625 -75.137929,43.0257025 -75.1381245,43.0259135 -75.1383265,43.0261215 -75.1385355,43.026325 -75.138751,43.0265255 -75.1389735,43.0267215 -75.1391455,43.0268785 -75.139312,43.0270385 -75.139473,43.0272015 -75.1396285,43.0273675 -75.139857,43.0275615 -75.140091,43.027752 -75.140331,43.027938 -75.140577,43.0281205 -75.141774,43.02897 -75.141764,43.0289755 -75.141399,43.0292525 -75.14096,43.0295945 -75.1405235,43.029938 -75.1397535,43.029591 -75.1393125,43.029946 -75.139058,43.029831 -75.1357755,43.028351 -75.1358935,43.028214 -75.130555,43.0257955 -75.1279205,43.029045 -75.122511,43.026272 -75.1228115,43.025892 -75.1218605,43.0258705 -75.1181315,43.022926 -75.117583,43.022493 -75.117063,43.022442 -75.1174865,43.021954 -75.1179755,43.021377</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-75.116392,43.0257245 -75.114804,43.025224 -75.115382,43.024516 -75.116559,43.023064 -75.1170935,43.023114 -75.1205505,43.025844 -75.116392,43.0257245</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Layers</name>
+    </Folder>
+  </Document>
+</kml>

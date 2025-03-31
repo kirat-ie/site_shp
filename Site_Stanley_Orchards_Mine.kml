@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document xmlns="http://www.opengis.net/kml/2.2">
+    <Folder>
+      <name>Parcels</name>
+      <Placemark>
+        <name>site_Site_Stanley_Orchards_Mine</name>
+        <Style>
+          <LineStyle>
+            <color>ff800080</color>
+            <width>2</width>
+          </LineStyle>
+          <PolyStyle>
+            <color>80FFFFFF</color>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#5560718b7a4d4f918fde4cc1dea174e0">
+            <SimpleData name="Parcel ID">94.3-5-50.100</SimpleData>
+            <SimpleData name="Unique ID">3cc199c0-7c5e-43dd-b2ff-69102f578795</SimpleData>
+            <SimpleData name="Municipality">Gardiner</SimpleData>
+            <SimpleData name="City">Gardiner</SimpleData>
+            <SimpleData name="Zipcode">12525</SimpleData>
+            <SimpleData name="County">Ulster</SimpleData>
+            <SimpleData name="State">NY</SimpleData>
+            <SimpleData name="Owner">Anthony J Donato</SimpleData>
+            <SimpleData name="Owner 2">Frances Donato</SimpleData>
+            <SimpleData name="Mailing Address">2036 ROUTE 44-55, , MODENA, NY, 12548</SimpleData>
+            <SimpleData name="Mail Line">2036 Route 44-55 </SimpleData>
+            <SimpleData name="Mail City">Modena</SimpleData>
+            <SimpleData name="Mail State">NY</SimpleData>
+            <SimpleData name="Mail Zip">12548</SimpleData>
+            <SimpleData name="Land Value">501700.0</SimpleData>
+            <SimpleData name="Total Parcel Value">1050000.0</SimpleData>
+            <SimpleData name="Deeded Acreage">114.1500015258789</SimpleData>
+            <SimpleData name="Paces Calculated Acreage">115.39254728732794</SimpleData>
+            <SimpleData name="Zoning Code">RA</SimpleData>
+            <SimpleData name="Zoning Description">Rural Agricultural</SimpleData>
+            <SimpleData name="Type">Site</SimpleData>
+            <SimpleData name="Latitude">41.676679</SimpleData>
+            <SimpleData name="Longitude">-74.123531</SimpleData>
+            <SimpleData name="Alternate Parcel ID 1">51240094.3-5-50.100</SimpleData>
+            <SimpleData name="Alternate Parcel ID 2">5124002422</SimpleData>
+            <SimpleData name="Parcel URL">https://app.paces.ai/parcel?sourceId=3cc199c0-7c5e-43dd-b2ff-69102f578795&amp;fips=36111</SimpleData>
+            <SimpleData name="Site ID">16795008</SimpleData>
+            <SimpleData name="Site URL">https://app.paces.ai/site?siteId=16795008</SimpleData>
+            <SimpleData name="Site Notes">Suff build area + HC </SimpleData>
+            <SimpleData name="Site Rating">4</SimpleData>
+            <SimpleData name="Owner Name (Reportall)">Donato Anthony J</SimpleData>
+            <SimpleData name="Mail Address 1 (Reportall)">2036 Route 44-55</SimpleData>
+            <SimpleData name="Mail Address 3 (Reportall)">Modena NY 12548</SimpleData>
+            <SimpleData name="Phone Number">N/A</SimpleData>
+            <SimpleData name="Email">N/A</SimpleData>
+            <SimpleData name="Energy Community">No energy community</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-74.117728,41.6770995 -74.1176775,41.677307 -74.117573,41.6777315 -74.117571,41.6777405 -74.1172865,41.6788995 -74.1224,41.680059 -74.122401,41.6800565 -74.1233435,41.67939 -74.1243915,41.678648 -74.124768,41.678428 -74.124929,41.678334 -74.1263665,41.6774945 -74.128312,41.677578 -74.1297495,41.6776395 -74.1297325,41.677079 -74.129823,41.677088 -74.130296,41.674373 -74.1294835,41.673902 -74.128547,41.673626 -74.128106,41.674453 -74.1274765,41.674289 -74.1263135,41.6739865 -74.125174,41.6736895 -74.1251535,41.6736815 -74.1247815,41.674383 -74.12406,41.675743 -74.1224435,41.675179 -74.122263,41.6755515 -74.120809,41.6750395 -74.1208955,41.673263 -74.120721,41.673257 -74.120547,41.673248 -74.1204645,41.6732445 -74.1203815,41.6732445 -74.1202995,41.673248 -74.120285,41.673251 -74.120272,41.673256 -74.1202595,41.673262 -74.120249,41.6732695 -74.12024,41.673278 -74.120233,41.673288 -74.120228,41.673298 -74.120225,41.673309 -74.120216,41.6733355 -74.120201,41.6733605 -74.120181,41.6733835 -74.1201565,41.673404 -74.120128,41.673421 -74.120096,41.6734345 -74.120062,41.6734445 -74.120026,41.67345 -74.1199895,41.673451 -74.119653,41.6747035 -74.119092,41.675559 -74.1181325,41.6754485 -74.118132,41.6754485 -74.118036,41.6758405 -74.1179785,41.676076 -74.117728,41.6770995</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Layers</name>
+    </Folder>
+  </Document>
+</kml>
